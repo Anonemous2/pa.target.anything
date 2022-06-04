@@ -1,7 +1,7 @@
 {
 	"identifier": "pa.target.anything",
 	"display_name": "Target Anything",
-	"description": "As Described; Most units can target any world layer, with the following major changes: Air fighters do 15% non aa damage, aa land does 25% non air damage, orbital defences only target orbital. Dispite the changes, units should still function much like before, and the game remains balanced. Fully compatable with Legion, Second Wave, and Section 17. For the full list of manual changes, check out the buildscript.",
+	"description": "As Described; Most units can target any world layer, with the following major changes: Air fighters do 15% non-aa damage, aa land does 25% non-air damage, orbital defenses only target orbital. Despite the changes, units should still function much like before, and the game remains balanced. Fully compatible with Legion, Second Wave, and Section 17. For the full list of manual changes, check out the buildscript.",
 	"author": "Anonemous2",
 	"signature": "not yet implemented",
 	"forum": "https://forums.planetaryannihilation.com/threads/target-anything.73586/#post-1152296",
@@ -9,10 +9,11 @@
 	"icon": "https://github.com/Anonemous2/pa.target.anything/blob/main/targetanything.gif?raw=true",
 	"titansOnly": true,
 	"category": [
-		"balance"
+		"balance",
+		"Titans"
 	],
 	"context": "server",
 	"date": "2022-5-27",
 	"build": "115673",
-	"version": "1.0.2"
+	"version": "1.0.3"
 }
